@@ -32,7 +32,8 @@ screenshot/
 
 1. **Clone the repository**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-vengefu.git
+
    cd week-1-mongodb-fundamentals-assignment-vengefu
    ```
 
@@ -92,6 +93,6 @@ See [`screenshot/Screenshot (2).png`](screenshot/Screenshot%20(2).png) for a sam
 
 ---
 
-**Author:** _Your Name_  
+**Author:** _Violet Engefu_  
 **Course:** PLP MongoDB Fundamentals  
-**Assignment:** Week 1
+**Assignment:** Week 1 mongodb.
